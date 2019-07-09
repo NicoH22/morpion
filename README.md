@@ -1,3 +1,3 @@
-#morpion
+# Morpion
 
 In progress
